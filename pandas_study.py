@@ -1,4 +1,5 @@
 import pandas as pd
+import tensorflow as tf
 
 lemon_path = 'https://raw.githubusercontent.com/blackdew/tensorflow1/master/csv/lemonade.csv'
 lemon_data = pd.read_csv(lemon_path)
@@ -35,3 +36,4 @@ print(iris_inde.shape, iris_de.shape)
 print(lemon_data.head())
 print(boston_data.head())
 print(iris_data.head())
+
