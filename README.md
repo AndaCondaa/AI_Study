@@ -70,7 +70,7 @@
 
 ## Gradient Descent
 
-데이터에 대한 손실함수의 최소값을 찾는 방법<br>
+데이터에 대한 손실함수의 최소값을 찾는 방법
 
 🔹Batch Gradient Descent
 
