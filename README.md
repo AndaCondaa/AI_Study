@@ -36,9 +36,9 @@
 
 #### 🔹Linear Regression
 
-##### 	➢Polynomial Regression
+##### <t>	➢Polynomial Regression
 
-##### 	➢ Multiple Regression
+##### <t>	➢ Multiple Regression
 
 
 
