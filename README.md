@@ -4,8 +4,13 @@
 - 따라서, DL과 직접적인 연관성이 적은 Tree Model 등은 제외
 
 <br>
-
 <br>
+
+## 필요 ❗️❗️❗️❗️❗️❗️❗️❗️
+분류 회귀 등에서 사용되는 로스함수를 정리하자 !<br>
+분류 회귀 등에서 사용되는 정확도에 대한 지표를 정리하자 !<br>
+그리고 그에따른 tol값 쓰는 것도 이해하자<br>
+
 
 ## 메모
 
@@ -63,7 +68,7 @@
 ## MLP
 
 - 여거 개의 가중치 합을 은닉층을 통해 계산하는 것은 결국 수학적으로는 하나의 가중치 합을 추정하는 것과 같아서, 선형 모델과 같음 -> 따라서 또 다른 기교가 필요 -> 활성화 함수 (activation function) -> 더 복잡한 함수 학습 가능
-  -  ReLU(rectified linear unit) - (0, 무한)
+  - ReLU(rectified linear unit) - (0, 무한)
   - 하이퍼볼릭 탄젠트(hyperbolic tangent) - (-1, 1)
   - Logistic (sigmoid function) - (0, 1) (비추천❌)
 - 보통 분류의 경우 신경망 마지막 출력층에 sigmoid/softmax 함수를 적용하여 최종 출력 y를 계산
