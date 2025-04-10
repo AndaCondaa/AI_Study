@@ -6,6 +6,4 @@
 print('test')
 ```
 
-$x+y=1$
-
-![image-20250410222419682](/Users/simon/Library/Application Support/typora-user-images/image-20250410222419682.png)
+$x^2+exp^(log3*1)=1$
