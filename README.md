@@ -1,6 +1,6 @@
-[[ML 정리](docs/ML.md)]
+####[ML 정리](docs/ML.md)
 
-[[DL 정리](docs/DL.md)]
+####[DL 정리](docs/DL.md)
 
 # Computer Vision
 
