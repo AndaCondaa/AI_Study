@@ -5,8 +5,5 @@
 *.AppleDB
 ._*
 Icon?
-DL/ref/
-DL/datasets/
-DL/models/DL/datasets.zip
-DL/datasets.zip
-DL/datasets.zip
+DL/data/
+DL/models/
